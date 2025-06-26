@@ -1,0 +1,15 @@
+
+{
+  "github.copilot.chat.codeGeneration.instructions": [
+    {
+      "file": ".github/copilot-instructions.md"
+    },
+    {
+      "file": ".github/rubyui-guidelines.md"
+    }
+  ],
+  "github.copilot.advanced": {
+    "railsMode": true,
+    "stimulusSupport": true
+  }
+}
